@@ -1,3 +1,3 @@
 # olympiad in informatics
-Learning algorithms\n
-most of the problems sets are from Luogu and USACO
+Learning algorithms.
+Most of the problems sets are from Luogu and USACO
